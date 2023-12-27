@@ -5,6 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaMobileAlt } from "react-icons/fa";
+import FirstTask from './React practice/FirstTask';
 
 function Footer() {
     return (
@@ -205,6 +206,7 @@ function Footer() {
                 </div>
 
             </footer >
+            <FirstTask />
         </>
     )
 }

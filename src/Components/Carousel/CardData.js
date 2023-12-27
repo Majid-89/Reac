@@ -631,6 +631,4 @@ const cardColors = [
         color: "#4ade80"
     }
 ]
-
-
 export { CardData, productData, cardColors, featuredCardData }
